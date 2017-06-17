@@ -1,0 +1,8 @@
+How to add more sound files:
+
+- Sound files located in \.minecraft\assets\objects
+- Use index file in \.minecraft\assets\indexes
+- Location in resource pack http://minecraft.gamepedia.com/Sounds.json
+
+Reduce the volume with: audacity -> amplify -> -20dB
+Export as .ogg
