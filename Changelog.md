@@ -1,6 +1,6 @@
 # BeQuiet Changelog
 
-<b> v1.0 </b>
+<b> <a href="https://github.com/Alterux/BeQuiet/raw/master/BeQuiet-1.1.zip">v1.0</a></b>
 
 Sounds included in release version:
 - Wither spawn & death
@@ -12,7 +12,7 @@ Sounds included in release version:
 - Thunder sounds
 
 
-<b> v1.1 </b>
+<b> <a href="https://github.com/Alterux/BeQuiet/raw/master/BeQuiet-1.1.zip">v1.1</a></b>
 
 - Added Endermen idle and hurt sounds
 
