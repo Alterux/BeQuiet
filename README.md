@@ -14,3 +14,5 @@ Sounds included in v1.1:
 - Thunder sounds
 
 - Portal sounds
+
+For previous versions, read the <a href="https://github.com/Alterux/BeQuiet/blob/master/Changelog.md">Changelog</a>.
