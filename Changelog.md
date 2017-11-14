@@ -3,12 +3,14 @@
 <b> <a href="https://github.com/Alterux/BeQuiet/releases/download/1.1-SP/BeQuiet-1.1-SP.zip">v1.1-SP</a></b>
 
 • Added menu click sound
+
 • Converted all sound files to mono (for compatibility with the Sound-Physics mod)
 
 
 <b> <a href="https://github.com/Alterux/BeQuiet/releases/download/1.1/BeQuiet-1.1.zip">v1.1</a></b>
 
 • Added Endermen idle and hurt sounds
+
 • Added Portal sounds
 
 
@@ -17,7 +19,11 @@
 Sounds included in release version:
 
 • Wither spawn & death
+
 • Ender Dragon death & growls
+
 • Endermen death
+
 • Minecart sounds
+
 • Thunder sounds
