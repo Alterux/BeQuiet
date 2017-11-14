@@ -4,8 +4,6 @@
 
 • Added menu click sound
 
-• Converted all sound files to mono (for compatibility with the Sound-Physics mod)
-
 
 <b> <a href="https://github.com/Alterux/BeQuiet/releases/download/1.1/BeQuiet-1.1.zip">v1.1</a></b>
 
